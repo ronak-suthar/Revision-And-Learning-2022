@@ -1,0 +1,52 @@
+div {
+  /*Way 1*/
+  /* margin-left:100px; */
+  /* margin:100px; */
+
+  /*Way 2*/
+  /*margin : 10px 20px 25px 14px*/
+  /*margin : top, right, bottom, left*/
+
+  /*Way 3*/
+  /*margin : 10px*/
+  /*margin : all sides*/
+
+  /*Way 4*/
+  /*margin : 10px 20px*/
+  /*margin : top and bottom. left and right*/
+
+  /*Way 5*/
+  /*margin : 10px 20px 30px*/
+  /*margin : top, left and right, bottom*/
+
+  /*Just Remember
+    - Margin is empty space
+    - Padding is more background
+    */
+
+  margin: 100px;
+
+  padding: 25px;
+
+  /*border*/
+
+  /*Way 1*/
+  /*border-color
+  border-widht
+  border-style*/
+
+  /*Way 2 short hand*/
+  /*border : 2px solid yellow*/
+  /*border : width, style, color*/
+
+  /*Note border can be applied seperately on top left right bottom*/
+  border-color: red;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: yellow;
+}
+
+body {
+  background-color: grey;
+}

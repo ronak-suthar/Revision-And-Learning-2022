@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: grey;
+    text-align: center;
+    padding: 40px;
+    color: white;
+    font-size: 30px;
+}
+
+main{
+    background-color: lightcyan;
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 500px;
+    padding: 30px;
+    margin: 10px auto;
+}
+
+footer{
+    background-color: steelblue;
+    text-align: center;
+    padding: 25px;
+    color: white;
+}

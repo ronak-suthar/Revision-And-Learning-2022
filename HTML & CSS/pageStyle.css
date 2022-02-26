@@ -1,0 +1,26 @@
+/* element selector */
+body{
+    background-color: aquamarine;
+}
+
+p{
+    color: grey;
+    font-style: italic;
+    font-size: 35px;
+}
+
+/* class selector */
+
+.RedColor{
+    font-size: 50px;
+    color: steelblue;
+}
+
+
+/* ID selector*/
+
+#Warning-Heading{
+    font-size: 36px;
+    color: slategrey;
+}
+
