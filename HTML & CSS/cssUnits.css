@@ -1,0 +1,29 @@
+.px {
+  background-color: lightcoral;
+  font-size: 35px;
+}
+.rem {
+    background-color: lightgreen;
+    font-size: 3rem;
+}
+.em {
+    background-color: lightgoldenrodyellow;
+    font-size: 3rem;
+}
+.vh-vw{
+    background-color: lightpink;
+    width: 50vw;
+    height: 50vh;
+}
+.Parent-em{
+    background-color: lightseagreen;
+    font-size: 2rem;
+    width: 30rem;
+    height: 10rem;
+}
+
+.Child-em{
+    background-color: red;
+    width: 20%;
+    height: 20%;
+}

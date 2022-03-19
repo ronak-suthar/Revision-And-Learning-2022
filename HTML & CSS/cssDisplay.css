@@ -1,0 +1,24 @@
+html{
+    font-size: 30px;
+}
+.inline{
+    display: inline;
+    background-color: aqua;
+    border: 5px red solid;
+    margin: 2rem;
+}
+
+.block{
+    display: block;
+    background-color: beige;
+    border: 5px grey solid;
+    margin: 2rem;
+}
+
+.inline-block{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 15rem;
+    border: 5px green solid;
+    margin: 2rem;
+}
